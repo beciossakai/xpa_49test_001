@@ -1,0 +1,25 @@
+[
+	{
+		"module_name":	"",
+		"routesArray":	[
+			{
+				"RouteName":	"Juchu",
+				"ModuleName":	"Juchu",
+				"OutletName":	"",
+				"children":	null
+			},
+			{
+				"RouteName":	"**",
+				"ModuleName":	"",
+				"OutletName":	"",
+				"children":	null
+			}
+		]
+	},
+	{
+		"module_name":	"Juchu",
+		"routesArray":	[
+			
+		]
+	}
+]

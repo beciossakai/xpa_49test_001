@@ -1,0 +1,143 @@
+{
+	"style":	null,
+	"props":	{
+		"id":	"Login",
+		"component_path":	"Login/",
+		"component_uniquename":	"Login_Login"
+	},
+	"coordinates":	{
+		"x":	0,
+		"y":	0,
+		"width":	547,
+		"height":	0
+	},
+	"hint":	null,
+	"controlType":	null,
+	"children":	[
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Image8",
+				"common_line_id":	"line12"
+			},
+			"coordinates":	{
+				"x":	12,
+				"y":	12,
+				"width":	175,
+				"height":	194
+			},
+			"hint":	null,
+			"controlType":	"I",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Label11",
+				"text":	"ユーザID/利用者名",
+				"common_line_id":	"line212"
+			},
+			"coordinates":	{
+				"x":	12,
+				"y":	212,
+				"width":	104,
+				"height":	19
+			},
+			"hint":	null,
+			"controlType":	"L",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"V_V_UserID",
+				"mgformat":	"mgFormat",
+				"attribute":	"A",
+				"common_line_id":	"line212"
+			},
+			"coordinates":	{
+				"x":	122,
+				"y":	212,
+				"width":	65,
+				"height":	19
+			},
+			"hint":	null,
+			"controlType":	"T",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Label12",
+				"text":	"パスワード",
+				"common_line_id":	"line237"
+			},
+			"coordinates":	{
+				"x":	12,
+				"y":	237,
+				"width":	68,
+				"height":	19
+			},
+			"hint":	null,
+			"controlType":	"L",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"V_V_Password",
+				"password_edit":	true,
+				"mgformat":	"mgFormat",
+				"attribute":	"A",
+				"common_line_id":	"line237"
+			},
+			"coordinates":	{
+				"x":	122,
+				"y":	237,
+				"width":	124,
+				"height":	19
+			},
+			"hint":	null,
+			"controlType":	"T",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"B_kaisi",
+				"enabled":	{
+					"value":	null,
+					"has_exp":	true
+				},
+				"attribute":	"A",
+				"common_line_id":	"line262"
+			},
+			"coordinates":	{
+				"x":	54,
+				"y":	262,
+				"width":	192,
+				"height":	21
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"B_shuryo",
+				"attribute":	"A",
+				"common_line_id":	"line289"
+			},
+			"coordinates":	{
+				"x":	54,
+				"y":	289,
+				"width":	192,
+				"height":	21
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		}
+	]
+}
